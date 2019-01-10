@@ -262,3 +262,8 @@ ua = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like G
 
 [yara]
 repositories = https://github.com/Neo23x0/signature-base.git
+
+ 
+[metascan]
+# private metascan server
+metascan_url = 
